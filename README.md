@@ -1,4 +1,4 @@
-# autoclick-python
+# autoclick-python3
 simple autoclick made in python3
 
 ## How to use
